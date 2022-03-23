@@ -32,6 +32,7 @@ However, it may not be immediately obvious where you can find THE Lewis.
 To search only accounts and exclude posts, switch to the "People" tab.
 
 |![alt text](images/twitter_search_top.png "Twitter Search Page - Top Section")|![alt text](images/twitter_search_people.png "Twitter Search Page - People Section")|
+|:---:|:---:|
 
 With a bit of scrolling, we can already find quite a few Lewis Chan-s.
 
