@@ -31,8 +31,7 @@ However, it may not be immediately obvious where you can find THE Lewis.
 
 To search only accounts and exclude posts, switch to the "People" tab.
 
-![alt text](images/twitter_search_top.png "Twitter Search Page - Top Section")
-![alt text](images/twitter_search_people.png "Twitter Search Page - People Section")
+|![alt text](images/twitter_search_top.png "Twitter Search Page - Top Section")|![alt text](images/twitter_search_people.png "Twitter Search Page - People Section")|
 
 With a bit of scrolling, we can already find quite a few Lewis Chan-s.
 
@@ -67,7 +66,7 @@ Where is the alt tag? Even if you have zero web experience, remember, Google is 
 ![alt text](images/google_find_alt_tag.png "Google search result for finding image alt tag")
 ![alt text](images/business_insider_find_alt_tag.png "Article on how to find image alt tag")
 
-Let's go back to Lewis' Twitter.
+Let's go back to Lewis' Twitter. Inspect element and find the element containing the image.
 
 ![alt text](images/twitter_inspect_flag.png "Inspecting element on cybersecurity meme from @lewischan0601")
 
