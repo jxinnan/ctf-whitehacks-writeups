@@ -64,8 +64,8 @@ Let's see if Lewis has uploaded any images.
 
 Where is the alt tag? Even if you have zero web experience, remember, Google is your best friend.
 
-![alt text](images/google_find_alt_tag.png "Google search result for finding image alt tag")
-![alt text](images/business_insider_find_alt_tag.png "Article on how to find image alt tag")
+|![alt text](images/google_find_alt_tag.png "Google search result for finding image alt tag")|![alt text](images/business_insider_find_alt_tag.png "Article on how to find image alt tag")|
+|:---:|:---:|
 
 Let's go back to Lewis' Twitter. Inspect element and find the element containing the image.
 
