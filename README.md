@@ -1,1 +1,1 @@
-# ctf-whitehacks-writeups
+# Whitehacks Writeups
