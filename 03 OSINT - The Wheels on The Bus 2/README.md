@@ -12,7 +12,7 @@ Once again, we must look at the video closely for clues. And this time, life is 
 
 p.s. On the Google Drive player (and YouTube), you can use the "," and "." keys (for "<" and ">") to move frame by frame, so you can easily pause and search for the precise frame that you want to examine.
 
-<details><summary>## Clue 1: One Hour from Tanah Merah</summary>
+<details><summary><h2>Clue 1: One Hour from Tanah Merah</h2></summary>
 
 > One hour later, he sent this.
 
