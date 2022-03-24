@@ -78,6 +78,8 @@ After some professional editing work, you should be able to get this QR code whi
 
 Yes sir. Perhaps the meaning of password too? No harm trying anything you find.
 
+It works!
+
 ![alt text](images/pastebin_content.png "Pastebin contents")
 
 Whoa, after searching for how to be human and following not_alien_123, this comes as a huge shock to everyone.
@@ -92,29 +94,21 @@ Dated: Earth Time of 03 February 2022
 We have successfully infiltrated the location known by these humans as Singapore.
 Here are our findings so far:
 
-    1. We have adopted the physical appearance of what the humans called
-       Homo sapiens, we now looks the same as them.
+1. We have adopted the physical appearance of what the humans called Homo sapiens, we now looks the same as them.
 
-    2. These humans are excited about something called "CTF".
-       No idea what they meant. Cyber Task Force? Cipher Too Fun?
-       But it seems to be a competition.
+2. These humans are excited about something called "CTF". No idea what they meant. Cyber Task Force? Cipher Too Fun? But it seems to be a competition.
 
-    3. Considering point (1), we have set up a shell company called
-       "CTF Solver Service" which offer CTF-solving service for these humans.
+3. Considering point (1), we have set up a shell company called "CTF Solver Service" which offer CTF-solving service for these humans.
 
-    4. However, someone ended up investigating us. This human ended up close
-       to discovering our identities. But the problem has been "neutralized".
+4. However, someone ended up investigating us. This human ended up close to discovering our identities. But the problem has been "neutralized".
 
-    5. We believe that the human will not pose any threat to our expedition.
+5. We believe that the human will not pose any threat to our expedition.
 
-    6. Considering point (3) and (4), we believe it is best for us to stay
-       low at this moment.
+6. Considering point (3) and (4), we believe it is best for us to stay low at this moment.
 
-    7. As with the "neutralized" human, we will be analyzing him soon. We may
-       need to alter his memories before returning him back to the crowd.
+7. As with the "neutralized" human, we will be analyzing him soon. We may need to alter his memories before returning him back to the crowd.
 
-    8. We do find some interesting discoveries on his belongings. Details on
-       the classified section below.
+8. We do find some interesting discoveries on his belongings. Details on the classified section below.
 
 Signed,
 Operator 34X21 "Kurt"
