@@ -29,8 +29,7 @@ Maybe his Gmail links to a Google Calendar? But how do I find his Google Calenda
 
 Maybe I could subscribe to his calendar?
 
-|![alt text](images/calendar_1.png "Subscribing to Lewis' calendar")|
-![alt text](images/calendar_2.png "Subscribing to Lewis' calendar")|
+|![alt text](images/calendar_1.png "Subscribing to Lewis' calendar")|![alt text](images/calendar_2.png "Subscribing to Lewis' calendar")|
 |:---:|:---:|
 
 Scroll down a bit...
