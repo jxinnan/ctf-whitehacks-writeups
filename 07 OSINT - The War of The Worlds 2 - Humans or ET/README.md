@@ -12,9 +12,7 @@ Suppose you have absolutely no idea what are social media platforms (if you reac
 
 After searching the different platforms, we would have found something on Instagram.
 
-![alt text](images/insta_search.png "Searching 'Ng Eng Siang Kurt' on Instagram")
-
-|![alt text](images/insta_post_1.png "Best food! - Instagram post of pizza by ngengsiangkurt")|![alt text](images/insta_post_2.png "Enjoying life ~~ - Instagram post of browser tabs by ngengsiangkurt")|
+|![alt text](images/insta_search.png "Searching 'Ng Eng Siang Kurt' on Instagram")|![alt text](images/insta_post_1.png "Best food! - Instagram post of pizza by ngengsiangkurt")|![alt text](images/insta_post_2.png "Enjoying life ~~ - Instagram post of browser tabs by ngengsiangkurt")|
 |:---:|:---:|
 
 That pizza is intensifying my hunger but that URL is raising my eyebrows. Ignoring the fact that Kurt just searched "how to act like human", I don't think that The Straits Times changed their URL to https://shorturl.at/krA04.
