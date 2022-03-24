@@ -88,7 +88,7 @@ While there are too many POSB ATMs for this to be meaningful by itself, it could
 
 ## Capturing the Postal Code
 
-|![alt text](images/life_lobby.png "Lift lobby of an HDB block in the video")|![alt text](images/market.png "HDB block in the background in the video")|
+|![alt text](images/lift_lobby.png "Lift lobby of an HDB block in the video")|![alt text](images/market.png "HDB block in the background in the video")|
 |:---:|:---:|
 
 His final destination seems to refer to this HDB block, which we also saw at the start of the video.
