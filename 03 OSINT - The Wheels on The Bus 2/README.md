@@ -46,7 +46,7 @@ Now, we need to go back to the video to see what we can do.</details>
 
 ![alt text](images/market.png "Still frame of market sign in video")
 
-Self-explanatory.</details>
+Most markets are managed by NEA. You can find a list and a map on NEA's website (https://www.nea.gov.sg/our-services/hawker-management/overview).</details>
 
 <details><summary><h2>Clue 3: Overhead Bridge</h2></summary>
 
@@ -101,10 +101,11 @@ I would first use clues 1 and 5 to narrow it down to bus stops near MRT stations
 
 ![alt text](images/48_route.png "Route of bus 48 from Little India to Holland Village")
 
-Using clue 7, we can also limit ourselves to the Little India, Newton and Holland Village regions, as well as 3 spots around Botanic Gardens and Farrer Road.
+Using clues 2 and 7, we could compare the map of markets against the map of POSB ATMs within the same area.
 
+![alt text](images/nea_markets.png "Map of NEA markets")
 ![alt text](images/posb_atm_map.png "Map of POSB ATMs")
 
-Now, let's use clue 4. By using the satellite view or Google Street View, none of the main roads around Newton MRT station and Botanic Gardens MRT stations have 4 lanes.
+
 
 **FLAG:** ```WH2022{}```
