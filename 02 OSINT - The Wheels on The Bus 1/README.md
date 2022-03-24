@@ -8,6 +8,8 @@
 
 > Note: Visiting the location in the video is out of the scope of this challenge.
 
+Let's examine our only source, the video, for clues.
+
 ## Clue 1: Overground MRT
 
 ![alt text](images/overground_MRT.png "Overground MRT")
