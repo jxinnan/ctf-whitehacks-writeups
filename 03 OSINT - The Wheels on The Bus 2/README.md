@@ -90,22 +90,52 @@ While there are too many POSB ATMs for this to be meaningful by itself, it could
 
 ## Capturing the Postal Code
 
-|![alt text](images/lift_lobby.png "Lift lobby of an HDB block in the video")|![alt text](images/market.png "HDB block in the background in the video")|
-|:---:|:---:|
-
-His final destination seems to refer to this HDB block, which we also saw at the start of the video.
-
 There are many ways to use the clues we have to find the location.
 
 I would first use clues 1 and 5 to narrow it down to bus stops near MRT stations along bus service 48 (Little India, Newton, Stevens, Botanic Gardens, Farrer Road, Holland Village).
 
 ![alt text](images/48_route.png "Route of bus 48 from Little India to Holland Village")
 
-Using clues 2 and 7, we could compare the map of markets against the map of POSB ATMs within the same area.
+Using clue 2, we could look at the map of markets within the same area.
 
 ![alt text](images/nea_markets.png "Map of NEA markets")
+
+With clue 3, we can eliminate the markets which are on the same side of the road as bus 48 towards Buona Vista (remember, Singapore drives on the left!).
+
+We are now left with 3 markets, one each at Botanic Gardens, Farrer Road and Holland Village.
+
+Now, I use clue 7 and match the 3 markets to a map of POSB ATMs.
+
 ![alt text](images/posb_atm_map.png "Map of POSB ATMs")
+![alt text](images/posb_atm_map_overlay.png "Map of POSB ATMs overlaid with locations of the 3 markets")
 
+I marked out the 3 markets with purple crosses. The Holland Village market may seem close, but they aren't even on the same road if you look carefully.
 
+The market is Empress Market on Farrer Road!
 
-**FLAG:** ```WH2022{}```
+![alt text](images/empress_market.png "Empress Market information")
+
+But remember, the final destination refers to this HDB block, which we also saw at the start of the video.
+
+|![alt text](images/lift_lobby.png "Lift lobby of an HDB block in the video")|![alt text](images/market.png "HDB block in the background in the video")|
+|:---:|:---:|
+
+Now, we just need some simple Google Map-ing.
+
+![alt text](images/flag.png "Block 8 HDB next to Empress Market, with postal code 260008")
+
+**FLAG:** ```WH2022{260008}```
+
+<details><summary>Also I actually did it this way...</summary>
+
+I was at a loss at first but...
+
+![alt text](images/four_lane_road_2.png "Still frame looking at a four-lane road in video")
+
+...hm this looks familiar. Is it Farrer Road?
+
+![alt text](images/farrer_road.png "Google Street View of Empress Market")
+
+Ohhhhh it is Farrer Road.
+
+The End.</details>
