@@ -74,12 +74,23 @@ If you look really closely, there is a sign indicating a nearby MRT station too.
 |![alt text](images/walking_1.png "Walking along the market in video")|![alt text](images/walking_2.png "Walking along the market in video")|![alt text](images/walking_3.png "Walking along the market in video")|![alt text](images/walking_4.png "Walking along the market in video")|![alt text](images/walking_5.png "Walking along the market in video")|![alt text](images/walking_6.png "Walking along the market in video")|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-Lewis walks around the market towards a HDB lift lobby.
+Lewis walks around the market towards an HDB lift lobby.
 
 ![alt text](images/market.png "HDB block in the background in the video")
 
-Most probably the HDB block in the background here.
+Most probably the HDB block in the background here.</details>
 
-</details>
+<details><summary><h2>Clue 7: POSB ATM</h2></summary>
+
+![alt text](images/posb_atm.png "POSB ATM highlighted in video")
+
+While there are too many POSB ATMs for this to be meaningful by itself, it could come in useful.</details>
+
+## Capturing the Postal Code
+
+|![alt text](images/life_lobby.png "Lift lobby of an HDB block in the video")|![alt text](images/market.png "HDB block in the background in the video")|
+|:---:|:---:|
+
+His final destination seems to refer to this HDB block, which we also saw at the start of the video.
 
 **FLAG:** ```WH2022{}```
