@@ -10,6 +10,8 @@
 
 Once again, we must look at the video closely for clues (unless you plan to go to Tanah Merah and take the bus for one hour which is *not advisable* to say the least). And this time, life is getting difficult...
 
+(Of course, unless you recognised the location at any point in the video, then please feel free to save your time.)
+
 p.s. On the Google Drive player (and YouTube), you can use the "," and "." keys (for "<" and ">") to move frame by frame, so you can easily pause and search for the precise frame that you want to examine.
 
 <details><summary><h2>Clue 1: One Hour from Tanah Merah</h2></summary>
@@ -34,7 +36,7 @@ This narrows down the range to the Farrer Road area.
 
 With a bit of guess and check, it takes 60 minutes to travel from Tanah Merah Stn Exit A to Opp KK Women & Child Hosp, according to Transitlink
 
-Unfortunately, this widens the range significantly to include over 10 more bus stops, and the entire area around Little India, Newton and Botanic Gardens.
+Unfortunately, this widens the range significantly to include over 10 more bus stops, and the areas after Little India, and around Newton and Botanic Gardens.
 
 How tragic.
 
@@ -92,5 +94,17 @@ While there are too many POSB ATMs for this to be meaningful by itself, it could
 |:---:|:---:|
 
 His final destination seems to refer to this HDB block, which we also saw at the start of the video.
+
+There are many ways to use the clues we have to find the location.
+
+I would first use clues 1 and 5 to narrow it down to bus stops near MRT stations along bus service 48 (Little India, Newton, Stevens, Botanic Gardens, Farrer Road, Holland Village).
+
+![alt text](images/48_route.png "Route of bus 48 from Little India to Holland Village")
+
+Using clue 7, we can also limit ourselves to the Little India, Newton and Holland Village regions, as well as 3 spots around Botanic Gardens and Farrer Road.
+
+![alt text](images/posb_atm_map.png "Map of POSB ATMs")
+
+Now, let's use clue 4. By using the satellite view or Google Street View, none of the main roads around Newton MRT station and Botanic Gardens MRT stations have 4 lanes.
 
 **FLAG:** ```WH2022{}```
