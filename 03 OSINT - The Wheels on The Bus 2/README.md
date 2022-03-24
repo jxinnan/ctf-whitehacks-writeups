@@ -8,7 +8,7 @@
 
 > Note: Visiting the location in the video is out of the scope of this challenge.
 
-Once again, we must look at the video closely for clues. And this time, life is getting difficult...
+Once again, we must look at the video closely for clues (unless you plan to go to Tanah Merah and take the bus for one hour which is *not advisable* to say the least). And this time, life is getting difficult...
 
 p.s. On the Google Drive player (and YouTube), you can use the "," and "." keys (for "<" and ">") to move frame by frame, so you can easily pause and search for the precise frame that you want to examine.
 
@@ -70,6 +70,15 @@ Most roads have only up to 3 lanes, and not many roads have four lanes, so this 
 If you look really closely, there is a sign indicating a nearby MRT station too.</details>
 
 <details><summary><h2>Clue 6: Walking Around the Market</h2></summary>
+
+|![alt text](images/walking_1.png "Walking along the market in video")|![alt text](images/walking_2.png "Walking along the market in video")|![alt text](images/walking_3.png "Walking along the market in video")|![alt text](images/walking_4.png "Walking along the market in video")|![alt text](images/walking_5.png "Walking along the market in video")|![alt text](images/walking_6.png "Walking along the market in video")|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+Lewis walks around the market towards a HDB lift lobby.
+
+![alt text](images/market.png "HDB block in the background in the video")
+
+Most probably the HDB block in the background here.
 
 </details>
 
