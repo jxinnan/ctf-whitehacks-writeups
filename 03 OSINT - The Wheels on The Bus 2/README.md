@@ -4,7 +4,7 @@
 
 > Video: https://shorturl.at/gorFR
 
-> Flag is in the format: WH2022{PostalCode}
+> Flag is in the format: ```WH2022{PostalCode}```
 
 > Note: Visiting the location in the video is out of the scope of this challenge.
 
@@ -127,6 +127,7 @@ Now, we just need some simple Google Map-ing.
 **FLAG:** ```WH2022{260008}```
 
 <details><summary>Also I actually did it this way...</summary>
+
 
 I was at a loss at first but...
 

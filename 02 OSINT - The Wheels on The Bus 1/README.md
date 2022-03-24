@@ -4,7 +4,7 @@
 
 > Video: https://shorturl.at/rvIY7
 
-> Flag is in the format: WH2022{BusStopCode}
+> Flag is in the format: ```WH2022{BusStopCode}```
 
 > Note: Visiting the location in the video is out of the scope of this challenge.
 
