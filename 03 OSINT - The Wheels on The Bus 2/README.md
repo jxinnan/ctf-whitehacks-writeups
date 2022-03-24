@@ -90,7 +90,7 @@ While there are too many POSB ATMs for this to be meaningful by itself, it could
 
 ## Capturing the Postal Code
 
-There are many ways to use the clues we have to find the location.
+There are many ways to use the clues we have to find the location. And there's surely many other clues which I did not notice.
 
 I would first use clues 1 and 5 to narrow it down to bus stops near MRT stations along bus service 48 (Little India, Newton, Stevens, Botanic Gardens, Farrer Road, Holland Village).
 
@@ -106,8 +106,8 @@ We are now left with 3 markets, one each at Botanic Gardens, Farrer Road and Hol
 
 Now, I use clue 7 and match the 3 markets to a map of POSB ATMs.
 
-![alt text](images/posb_atm_map.png "Map of POSB ATMs")
-![alt text](images/posb_atm_map_overlay.png "Map of POSB ATMs overlaid with locations of the 3 markets")
+|![alt text](images/posb_atm_map.png "Map of POSB ATMs")|![alt text](images/posb_atm_map_overlay.png "Map of POSB ATMs overlaid with locations of the 3 markets")|
+|:---:|:---:|
 
 I marked out the 3 markets with purple crosses. The Holland Village market may seem close, but they aren't even on the same road if you look carefully.
 
