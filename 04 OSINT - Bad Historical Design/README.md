@@ -18,7 +18,7 @@ Can't be right? I'm a haccker, I know how to right click > inspect.
 
 Oh no.
 
-## Bad **Historical** Design
+## Bad Historical Design
 
 **Historical.**
 
@@ -32,7 +32,7 @@ Pop over to Wayback Machine (https://web.archive.org) and check if Lewis' websit
 
 ![alt text](images/wayback_machine_search.png "Searching Lewis' website on Wayback Machine")
 
-Ooh
+Ooh.
 
 ![alt text](images/wayback_machine_flag.png "Archived Lewis' website on Wayback Machine")
 
