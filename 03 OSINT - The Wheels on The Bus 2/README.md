@@ -115,6 +115,10 @@ The market is Empress Market on Farrer Road!
 
 ![alt text](images/empress_market.png "Empress Market information")
 
+We can double check using Google Street View.
+
+![alt text](images/farrer_road.png "Google Street View of Empress Market")
+
 But remember, the final destination refers to this HDB block, which we also saw at the start of the video.
 
 |![alt text](images/lift_lobby.png "Lift lobby of an HDB block in the video")|![alt text](images/market.png "HDB block in the background in the video")|
