@@ -136,4 +136,35 @@ Operator 34X21 "Kurt"
 ```
 </details>
 
+## Alien Language
+
+Poor Lewis! To save him, maybe we can try decrypting the classified message.
+
+If you observe carefully, the message contains a range of digits from 0 to 9, and letters from a to f. Moreover, each 2-character string is separated by a space. This seems likely to be in [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) form.
+
+Once again, we can use [Cyberchef](https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')) to convert it to a string.
+
+![alt text](images/cyberchef_1.png "Using Cyberchef to convert hexadecimal to string")
+
+Now, we get a long string of seemingly random characters. One neat trick with Cyberchef is its Magic function, which guesses which functions should be used. Let's give it a try.
+
+![alt text](images/cyberchef_2.png "Using Cyberchef to convert hexadecimal to string and then used magic function")
+
+It works! We can take its suggestion.
+
+![alt text](images/cyberchef_2.png "Using Cyberchef to convert hexadecimal to string and then convert from Base64 string to characters")
+
+<details><summary><h3>Full Text</h3></summary>
+
+```
+The human appears to be named Lewis, studying at a local university here.
+
+He believe that "alien" exists, and may have alerted his friends about us.
+
+Will need more operators send to provide defense with regular "rotation".
+
+As always, 47 and KHdhX2FhTEU5YjBkQWM0YlMwM2JFSGJiPzBFOWIwU0VjQ04=.
+```
+</details>
+
 **FLAG:** ```WH2022{}```
