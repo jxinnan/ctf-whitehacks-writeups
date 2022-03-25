@@ -146,13 +146,22 @@ Once again, we can use [Cyberchef](https://gchq.github.io/CyberChef/#recipe=From
 
 ![alt text](images/cyberchef_1.png "Using Cyberchef to convert hexadecimal to string")
 
-Now, we get a long string of seemingly random characters. One neat trick with Cyberchef is its Magic function, which guesses which functions should be used. Let's give it a try.
+<details><summary><h3>Full Text</h3></summary>
+
+```
+VGhlIGh1bWFuIGFwcGVhcnMgdG8gYmUgbmFtZWQgTGV3aXMsIHN0dWR5aW5nIGF0IGEgbG9jYWwgdW5pdmVyc2l0eSBoZXJlLgoKSGUgYmVsaWV2ZSB0aGF0ICJhbGllbiIgZXhpc3RzLCBhbmQgbWF5IGhhdmUgYWxlcnRlZCBoaXMgZnJpZW5kcyBhYm91dCB1cy4KCldpbGwgbmVlZCBtb3JlIG9wZXJhdG9ycyBzZW5kIHRvIHByb3ZpZGUgZGVmZW5zZSB3aXRoIHJlZ3VsYXIgInJvdGF0aW9uIi4KCkFzIGFsd2F5cywgNDcgYW5kIEtIZGhYMkZoVEVVNVlqQmtRV00wWWxNd00ySkZTR0ppUHpCRk9XSXdVMFZqUTA0PS4=
+```
+</details>
+
+Now, we get a long string of seemingly random characters. Note that the last character is "=", which only appears at the end. This could suggest that this is a Base64 string.
+
+Of course, there is also a neat trick with Cyberchef, which is its Magic function, which guesses which functions should be used. Let's give it a try.
 
 ![alt text](images/cyberchef_2.png "Using Cyberchef to convert hexadecimal to string and then used magic function")
 
-It works! We can take its suggestion.
+It is a Base64 string indeed! We can take its suggestion.
 
-![alt text](images/cyberchef_2.png "Using Cyberchef to convert hexadecimal to string and then convert from Base64 string to characters")
+![alt text](images/cyberchef_3.png "Using Cyberchef to convert hexadecimal to string and then convert from Base64 string to characters")
 
 <details><summary><h3>Full Text</h3></summary>
 
@@ -167,4 +176,22 @@ As always, 47 and KHdhX2FhTEU5YjBkQWM0YlMwM2JFSGJiPzBFOWIwU0VjQ04=.
 ```
 </details>
 
-**FLAG:** ```WH2022{}```
+Ahhhh, more weird strings ending with "=". We could try the Base64 function or the Magic function again.
+
+![alt text](images/cyberchef_5.png "Using magic function on Base64 string")
+
+Doesn't make sense. But let's work with this for now.
+
+> As always, 47 and ...
+
+What 47? We can try searching here on Cyberchef.
+
+![alt text](images/cyberchef_4.png "Searching 47 on Cyberchef")
+
+We could try this.
+
+![alt text](images/cyberchef_6.png "Using ROT47 on string")
+
+Wait a minute...
+
+**FLAG:** ```WH2022{th3_5p4c3$_b3tw33n_th3_$t4r}```
