@@ -85,6 +85,7 @@ It works!
 Whoa, after searching for how to be human and following not_alien_123, this comes as a huge shock to everyone.
 
 <details><summary><h3>Full Text</h3></summary>
+
 ```
 TOP SECRET
 
