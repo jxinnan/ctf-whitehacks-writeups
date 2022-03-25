@@ -87,41 +87,33 @@ Whoa, after searching for how to be human and following not_alien_123, this come
 <details><summary><h3>Full Text</h3></summary>
 ```
 TOP SECRET
- 
+
 Interplanetary Expedition Report No. 435
 Location: Singapore, Earth, Milky Way
 Dated: Earth Time of 03 February 2022
- 
+
 We have successfully infiltrated the location known by these humans as Singapore.
 Here are our findings so far:
  
-    1. We have adopted the physical appearance of what the humans called
-       Homo sapiens, we now looks the same as them.
+1. We have adopted the physical appearance of what the humans called Homo sapiens, we now looks the same as them.
+
+2. These humans are excited about something called "CTF". No idea what they meant. Cyber Task Force? Cipher Too Fun? But it seems to be a competition.
+
+3. Considering point (1), we have set up a shell company called "CTF Solver Service" which offer CTF-solving service for these humans.
+
+4. However, someone ended up investigating us. This human ended up close to discovering our identities. But the problem has been "neutralized".
  
-    2. These humans are excited about something called "CTF".
-       No idea what they meant. Cyber Task Force? Cipher Too Fun?
-       But it seems to be a competition.
- 
-    3. Considering point (1), we have set up a shell company called
-       "CTF Solver Service" which offer CTF-solving service for these humans.
- 
-    4. However, someone ended up investigating us. This human ended up close
-       to discovering our identities. But the problem has been "neutralized".
- 
-    5. We believe that the human will not pose any threat to our expedition.
- 
-    6. Considering point (3) and (4), we believe it is best for us to stay
-       low at this moment.
- 
-    7. As with the "neutralized" human, we will be analyzing him soon. We may
-       need to alter his memories before returning him back to the crowd.
- 
-    8. We do find some interesting discoveries on his belongings. Details on
-       the classified section below.
- 
+5. We believe that the human will not pose any threat to our expedition.
+
+6. Considering point (3) and (4), we believe it is best for us to stay low at this moment.
+
+7. As with the "neutralized" human, we will be analyzing him soon. We may need to alter his memories before returning him back to the crowd.
+
+8. We do find some interesting discoveries on his belongings. Details on the classified section below.
+
 Signed,
 Operator 34X21 "Kurt"
- 
+
 ===== START OF CLASSIFIED SECTION =====
 56 47 68 6c 49 47 68 31 62 57 46 75 49 47 46 77 63 47 56 68 63 6e 4d 67 64 47 
 38 67 59 6d 55 67 62 6d 46 74 5a 57 51 67 54 47 56 33 61 58 4d 73 49 48 4e 30 
